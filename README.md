@@ -33,3 +33,6 @@ Includes features like email & password validation, "Remember Me", password visi
 ```bash
 javac -d out src/LoginForm.java
 java -cp out LoginForm
+
+###LOGIN EMAIL : test@example.com
+###PASSWORD : test123
